@@ -11,11 +11,12 @@ Der Status Discord Bot ist ein Bot der als Information unter seinem Namen den St
 
 # Commands:
 ```
--
--
--
--
--
+- #help
+- #ip
+- #list
+- #status
+- #version
+- #vote
 ```
 
 
@@ -32,4 +33,8 @@ Der Status Discord Bot ist ein Bot der als Information unter seinem Namen den St
 **Copyright-Wiki**: https://github.com/Dev-PlayGS-Netzwerk/Status-Discord-Bot/wiki/Copyright
 
 
+# Bug Fund und dessen Report
+
 Fallen euch Bugs oder Fehler auf, schreibt uns einen Report zusammen mit dem Fehler, oder dem Bug.
+
+**Bug Reporten**: 
