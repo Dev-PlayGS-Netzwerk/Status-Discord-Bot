@@ -10,13 +10,13 @@ Der Status Discord Bot ist ein Bot der als Information unter seinem Namen den St
 ```
 
 # Commands:
-´´´
+```
 -
 -
 -
 -
 -
-´´´
+```
 
 
 Installation & Start & Ändern der Daten & Support & Copyright
