@@ -6,6 +6,7 @@ Der Status Discord Bot ist ein Bot der als Information unter seinem Namen den St
 # Funktionen:
 ```
 - Status Anzeige (Information)
+- Kanal Bearbeitung (Information)
 - Command System
 ```
 
